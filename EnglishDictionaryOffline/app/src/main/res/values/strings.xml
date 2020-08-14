@@ -1,0 +1,41 @@
+<resources>
+    <!--Default-->
+    <string name="app_name">Dictionary</string>
+    <!--Link-->
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.muradismayilov.englishdictionaryoffline</string>
+    <string name="facebook">https://www.facebook.com/Martian-Developer-112019446941119/</string>
+    <string name="instagram">https://www.instagram.com/martiandeveloper/</string>
+    <string name="twitter">https://twitter.com/Murad58349993/</string>
+    <string name="whatsapp">tel:+994554987507</string>
+    <string name="website">http://martiandeveloper.com/</string>
+    <string name="email">app.martiandeveloper@gmail.com</string>
+    <string name="google_play">https://play.google.com/store/apps/dev?id=6834191715264686209</string>
+    <string name="privacy_policy_link">https://englishdictionaryapp.blogspot.com/p/privacy-policy.html</string>
+    <!--Ad-->
+    <string name="englishdictionaryoffline_main_banner">ca-app-pub-3531666375863646/6412119395</string>
+    <string name="englishdictionaryoffline_meaning_banner">ca-app-pub-3531666375863646/6296569323</string>
+    <!--In App-->
+    <string name="other_apps">Click here to see our other apps</string>
+    <string name="contact_us">Contact us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="copyright1">© Copyright</string>
+    <string name="copyright2">All rights reserved</string>
+    <string name="credit">Credit</string>
+    <string name="icon">Icon: www.flaticon.com</string>
+    <string name="send_via">Send via</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading…</string>
+    <string name="word_not_found">Word not found.</string>
+    <string name="okay">Okay</string>
+    <string name="press_again">Press the back key again to exit</string>
+    <string name="no_definition_found">No Definition Found</string>
+    <string name="no_antonyms_found">No Antonyms Found</string>
+    <string name="no_synonyms_found">No Synonyms Found</string>
+    <string name="no_example_found">No Example Found</string>
+    <string name="not_available">Not Available</string>
+    <string name="about">About</string>
+    <string name="rate_us">Rate us</string>
+    <string name="clear_history">Clear history</string>
+    <string name="went_wrong">Something went wrong.</string>
+    <string name="exit">Exit</string>
+</resources>
